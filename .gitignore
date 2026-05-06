@@ -1,0 +1,34 @@
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+lib/
+
+# Supabase local artifacts
+.supabase/
+.supabase_config
+.temp/
+
+# Environment files
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*.swo
